@@ -12,7 +12,7 @@ This package provides an interface to the Aavegotchi Graph Registry.
 
 ## Deployed Contracts
 | Network| Address|
-|--|--|
+|:--:|:--:|
 | Polygon Mumbai | 0xA584366CC854BFcAbad473fC8fCE549dcbFB0e98 |
 | Polygon Mainnet | ... |
 
